@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+header {
+    background-color: black;
+    padding: 30px 30px 40px 30px;
+    margin: -10px -8px 0px -8px;
+}
+
+header h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 2.3em;
+    margin: 22px 0px -7px 0px;
+    font-family: "Passion One", sans-serif;
+    font-weight: 700;
+}
+
+.letramaior {
+    font-size: 1.4em;
+}
+
+header p {
+    font-size: 1.1em;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 5px 0px 15px 0px;
+}
+
+header p a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header p a:hover {
+    text-decoration: underline;
+}
+
+#secao1 {
+    background-color: rgb(255, 255, 255);
+    padding: 60px 50px 80px 35px;
+    margin: 0px -8px 0px -9px;
+}
+
+#secao1 p {
+    color: rgb(0, 0, 0);
+    margin: 0px -8px 0px -9px;
+    width: 200px;
+    font-family: "Sriracha", cursive;
+    font-size: 1.1em;
+}
+#secao1 p:hover{
+    text-decoration: underline;
+}
+#secao2{
+    background-image: url(pacote-d012/imagens/background001.jpg);
+    background-size: cover;
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: -0px -8px 0px -9px;;
+    height: 350px;
+    padding: 66px 0px 1px 32px;
+    box-shadow: 1px 1px 22px rgba(0, 0, 0, 0.555) inset;
+}
+#secao2 p{
+    width: 250px;
+    font-family: "Sriracha", cursive;
+    font-size: 1.1em;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.315);
+    margin: 0px 0px 0px 3px;
+    padding: 3px;
+}
+#secao3{
+    background-color: rgb(255, 255, 255);
+}
+#secao3 p{
+    font-family: "Sriracha", cursive;
+    font-size: 1.1em;
+    margin: 6px;
+}
+article{
+    padding: 23px;
+}
+#secao4{
+    background-image: url(pacote-d012/imagens/background002.jpg);
+    min-height: 350px;
+    padding: 66px 0px 1px 32px;
+    margin: 0px -8px 0px -9px;
+    background-size: cover;
+    background-attachment: fixed;
+    box-shadow: 1px 1px 22px rgba(0, 0, 0, 0.555) inset;
+}
+#secao4 p{
+    color: white;
+    font-family: "Sriracha", cursive;
+    font-size: 1.1em;
+    background-color: rgba(0, 0, 0, 0.315);
+    margin: 0px;
+    width: 250px;
+    padding: 3px;
+}
+#secao5{
+    background-color: rgb(255, 255, 255);
+}
+#secao5 p{
+    font-family: "Sriracha", cursive;
+    font-size: 1.1em;
+    margin: 6px;
+}
+footer{
+    background-color: black;
+    margin: 10px -8px -8px -9px;
+    padding: 10px;
+}
+footer p{
+    color: aliceblue;
+    margin: 0px;
+    text-align: center;
+}
+#hugo{
+    font-weight: bold;
+}
