@@ -11,7 +11,7 @@ header {
 header h1 {
     color: rgb(255, 255, 255);
     text-align: center;
-    font-size: 9vw;
+    font-size: 7vw;
     margin: 22px 0px -7px 0px;
     font-family: "Passion One", sans-serif;
     font-weight: 700;
@@ -42,7 +42,7 @@ header p a:hover {
 #secao1 {
     background-color: rgb(255, 255, 255);
     padding: 60px 50px 80px 35px;
-    margin: 0px -8px 0px -9px;
+    margin: 0px -8px 150px -9px;
 }
 
 #secao1 p {
@@ -62,7 +62,7 @@ header p a:hover {
     background-attachment: fixed;
     margin: -0px -8px 0px -9px;;
     height: 60%;
-    padding: 66px 0px 40px 32px;
+    padding: 66px 0px 90px 32px;
     box-shadow: 1px 1px 22px rgba(0, 0, 0, 0.555) inset;
 }
 #secao2 p{
@@ -73,9 +73,11 @@ header p a:hover {
     background-color: rgba(0, 0, 0, 0.315);
     margin: 0px 0px 0px 3px;
     padding: 10px;
+    line-height: 2em;
 }
 #secao3{
     background-color: rgb(255, 255, 255);
+    padding: 44px 0px 192px 0px;
 }
 #secao3 p{
     font-family: "Sriracha", cursive;
@@ -83,7 +85,7 @@ header p a:hover {
     margin: 6px;
 }
 article{
-    padding: 23px;
+    padding: 23px 23px 107px 23px;
 }
 #secao4{
     background-image: url(pacote-d012/imagens/background002.jpg);
@@ -93,7 +95,7 @@ article{
     background-attachment: fixed;
     margin: -0px -8px 0px -9px;;
     height: 60%;
-    padding: 66px 0px 40px 32px;
+    padding: 90px 0px 90px 32px;
     box-shadow: 1px 1px 22px rgba(0, 0, 0, 0.555) inset;
 }
 #secao4 p{
@@ -104,14 +106,17 @@ article{
     background-color: rgba(0, 0, 0, 0.315);
     margin: 0px 0px 0px 3px;
     padding: 10px;
+    line-height: 2em;
 }
 #secao5{
     background-color: rgb(255, 255, 255);
+    padding: 44px 0px 150px 0px;
 }
 #secao5 p{
     font-family: "Sriracha", cursive;
     font-size: 3.5vw;
     margin: 6px;
+
 }
 footer{
     background-color: black;
