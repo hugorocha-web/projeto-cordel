@@ -11,7 +11,7 @@ header {
 header h1 {
     color: rgb(255, 255, 255);
     text-align: center;
-    font-size: 2.3em;
+    font-size: 10vw;
     margin: 22px 0px -7px 0px;
     font-family: "Passion One", sans-serif;
     font-weight: 700;
@@ -48,9 +48,8 @@ header p a:hover {
 #secao1 p {
     color: rgb(0, 0, 0);
     margin: 0px -8px 0px -9px;
-    width: 200px;
     font-family: "Sriracha", cursive;
-    font-size: 1.1em;
+    font-size: 4.5vw;
 }
 #secao1 p:hover{
     text-decoration: underline;
@@ -62,14 +61,14 @@ header p a:hover {
     background-repeat: no-repeat;
     background-attachment: fixed;
     margin: -0px -8px 0px -9px;;
-    height: 350px;
-    padding: 66px 0px 1px 32px;
+    height: 60%;
+    padding: 66px 0px 40px 32px;
     box-shadow: 1px 1px 22px rgba(0, 0, 0, 0.555) inset;
 }
 #secao2 p{
-    width: 250px;
+    width: 60%;
     font-family: "Sriracha", cursive;
-    font-size: 1.1em;
+    font-size: 4.5vw;
     color: aliceblue;
     background-color: rgba(0, 0, 0, 0.315);
     margin: 0px 0px 0px 3px;
@@ -80,7 +79,7 @@ header p a:hover {
 }
 #secao3 p{
     font-family: "Sriracha", cursive;
-    font-size: 1.1em;
+    font-size: 4.5vw;
     margin: 6px;
 }
 article{
@@ -88,20 +87,22 @@ article{
 }
 #secao4{
     background-image: url(pacote-d012/imagens/background002.jpg);
-    min-height: 350px;
-    padding: 66px 0px 1px 32px;
-    margin: 0px -8px 0px -9px;
     background-size: cover;
+    background-position: right top;
+    background-repeat: no-repeat;
     background-attachment: fixed;
+    margin: -0px -8px 0px -9px;;
+    height: 60%;
+    padding: 66px 0px 40px 32px;
     box-shadow: 1px 1px 22px rgba(0, 0, 0, 0.555) inset;
 }
 #secao4 p{
-    color: white;
+    width: 60%;
     font-family: "Sriracha", cursive;
-    font-size: 1.1em;
+    font-size: 4.5vw;
+    color: aliceblue;
     background-color: rgba(0, 0, 0, 0.315);
-    margin: 0px;
-    width: 250px;
+    margin: 0px 0px 0px 3px;
     padding: 3px;
 }
 #secao5{
@@ -109,7 +110,7 @@ article{
 }
 #secao5 p{
     font-family: "Sriracha", cursive;
-    font-size: 1.1em;
+    font-size: 4.5vw;
     margin: 6px;
 }
 footer{
