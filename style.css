@@ -7,6 +7,7 @@ header {
     margin: -10px -8px 0px -8px;
 }
 
+
 header h1 {
     color: rgb(255, 255, 255);
     text-align: center;
@@ -25,6 +26,7 @@ header p {
     color: rgb(255, 255, 255);
     text-align: center;
     margin: 5px 0px 15px 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 header p a {
@@ -119,7 +121,11 @@ footer p{
     color: aliceblue;
     margin: 0px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #hugo{
     font-weight: bold;
+}
+#hugo:hover{
+    text-decoration: underline;
 }
